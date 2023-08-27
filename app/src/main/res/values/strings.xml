@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">WorkiFY</string>
+    <string name="userName">Enter your name</string>
+    <string name="password">Enter password</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="SignIn">Sign In</string>
+    <string name="noAccountText">Don\'t have an account?</string>
+    <string name="Signup">Sign up</string>
+    <string name="pemail">gayanq1@gmail.com</string>
+    <string name="ppassword">******</string>
+    <string name="del">Delete</string>
+    <string name="fav">Add to Favorites</string>
+    <string name="iwanttohire">I want to hire</string>
+    <string name="iwanttowork">I want to work</string>
+    <string name="anyjob">Any Job</string>
+    <string name="anytime">Any Time</string>
+    <string name="anywhere">Any Where</string>
+    <string name="EditDetailsBtn">Edit Details</string>
+    <string name="SaveDetailsBtn">Save Details</string>
+    <string name="EditTitle">Edit Details</string>
+    <string name="favouritesTitle">Favourites</string>
+    <string name="RegisterTitle">Create Account</string>
+    <string name="email">Enter your email</string>
+    <string name="district">Select your district</string>
+    <string name="description">Enter something about you</string>
+    <string name="haveAccountText">Already have an account?</string>
+    <string name="SettingsTitle">Settings</string>
+    <string name="WorkerName">gayan</string>
+    <string name="WorkerEmail">gayanq1@gmail.com</string>
+    <string name="WorkerLocation">Kandy</string>
+    <string name="WorkerDescription">Lorem Ipsum  dummy text typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="CategoriesTitle">Categories</string>
+    <string name="Plumbing">Plumbing</string>
+    <string name="Electrical">Electrical</string>
+    <string name="DoneBtn">Done</string>
+    <string name="DeleteBtn">Delete Account</string>
+    <string name="HomeTitle">Home</string>
+    <string name="SearchHint">Search Workers..</string>
+    <string name="NearMe">Near me</string>
+    <string name="OrderBtn">Order</string>
+    <string name="ViewBtn">View</string>
+    <string name="rate">4.5</string>
+    <string name="RateOutOf">/5.0</string>
+    <string name="AllServicesTitle">All Services</string>
+    <string name="Painting">Painting</string>
+    <string name="favouritesBtn">favourites</string>
+    <string name="ProfileDetails">My Profile</string>
+    <string name="DetailsBtn">My Details</string>
+    <string name="ProfileTitle">Profile</string>
+    <string name="DescriptionBtn">Description</string>
+    <string name="ServicesBtn">Services</string>
+    <string name="ReviewsBtn">Reviews</string>
+    <string name="ReviewsTitle">Customer Reviews</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="ReviewDesc">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</string>
+    <string name="MyServices">My Services</string>
+    <string name="ServiceDesc">"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been "</string>
+    <string name="Hr1000">RS1000/Hr</string>
+    <string name="Hr1500">RS1500/Hr</string>
+    <string name="furniture">Furniture Assembly</string>
+    <string name="Moving">Help Moving</string>
+    <string name="Cleaning">Home Cleaning</string>
+    <string name="ElectricalHelp">Electrical Help</string>
+    <string name="HomeCaption">Help when you need it, at your fingertips</string>
+    <string name="Gardening"><![CDATA[Yardwork & Gardening]]></string>
+    <string name="PlumbingRepairs">Plumbing Repairs</string>
+    <string name="Help">What do you need help with?</string>
+    <string name="EasyLife">Everyday life made easier</string>
+    <string name="EasyLifeDesc">When life gets busy, you don’t have to tackle it alone. Get time back for what you love without breaking the bank.</string>
+    <string name="EasyLifeLi1">Choose your Tasker by reviews, skills, and price</string>
+    <string name="EasyLifeLi2">Schedule when it works for you — as early as today</string>
+    <string name="EasyLifeLi3">Chat, pay, tip, and review all through one platform</string>
+    <string-array name="filter">
+        <item> Sort by </item>
+        <item> Average Ratings </item>
+        <item> Price Low To High </item>
+        <item> Price High To Low </item>
+    </string-array>
+
+    <string-array name="services">
+        <item> Electrical Help </item>
+        <item> Plumbing Repairs </item>
+        <item> Home Cleaning </item>
+        <item> Yardwork &amp; Gardening </item>
+        <item> Help Moving </item>
+        <item> Furniture Assembly </item>
+    </string-array>
+
+    <string name="GetHelp">Get the help you need today</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="WorkerDetails">Your Worker</string>
+    <string name="ViewProfile">View Profile</string>
+    <string name="MyDetails">Order Details</string>
+    <string name="NewOrdersHead">Pending Orders</string>
+    <string name="NewOrdersID">Order Id</string>
+    <string name="NewTitleDesc">Title</string>
+    <string name="NewViewBtn">View Details</string>
+    <string name="NewAcceptBtn">Accept</string>
+    <string name="NewRejectBtn">Reject</string>
+    <string name="services">Services</string>
+    <string name="add_a_service">Add a Service</string>
+    <string name="select_a_service">Select a service</string>
+    <string name="enter_your_description">Enter your description</string>
+    <string name="workerCompletebtn">Complete</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="re_enter_the_password">Re enter the Password</string>
+    <string name="don_t_remember_the_password">Forgot password?</string>
+    <string name="reset_password">Reset</string>
+    <string name="resetpass">Reset Password</string>
+    <string name="enter_a_new_password">Enter a new password</string>
+    <string name="log_in_instead">Sign in instead?</string>
+    <string name="save">Save</string>
+    <string name="service">Service :</string>
+
+    <string name="profile_text">Profile</string>
+    <string name="my_name">My Name</string>
+    <string name="AddReveiewCustomer">Add Review</string>
+    <string name="testemail_gmail_com">testEmail@gmail.com</string>
+    <string name="cutomer_profile_rating">4.2/5.0</string>
+    <string name="cutomer_description">Description</string>
+    <string name="cutomer_orders">Orders</string>
+    <string name="customer_reviews">Reviews</string>
+    <string name="cutomer_my_reviews">My reviews</string>
+    <string name="cutomer_reviews_from_sellers">Reviews from sellers</string>
+    <string name="cutomer_reviewList">Great Experience</string>
+    <string name="cutomer_review2">Great work!</string>
+    <string name="cutomer_review3">Better than expected!</string>
+    <string name="cutomerMyReviewView1">view</string>
+    <string name="cutomerMyReviewDelete">Delete</string>
+    <string name="cutomerMyReviewDelete4">Delete</string>
+    <string name="cutomerAddreviewStarHeading">Rate your over experience with this seller</string>
+    <string name="WorkerAddreviewStarHeading">Rate your over experience with this Buyer</string>
+    <string name="cutomer_review_title1">Great Experience with this seller</string>
+    <string name="customer_review_title2">Good service</string>
+    <string name="customer_review_title3">Great communication</string>
+    <string name="delete_the_review_Question">Are you sure you want to delete the review?</string>
+    <string name="delete_review_popup_description">If you click yes, the review will be deleted permanently. You wont be able to recover!</string>
+    <string name="Popupcancel">Cancel</string>
+    <string name="popup_delete_confirm">Yes, I want to delete</string>
+    <string name="edit_review_heading">Edit Review</string>
+    <string name="sellerReviewMode">S</string>
+    <string name="view_cutomer_review_btn">view</string>
+    <string name="StarRatingTitle">Rate your overall experience with this Seller</string>
+    <string name="review_title">Review Title</string>
+    <string name="Inserted_review">Great communicatio...</string>
+    <string name="RecommendTitle">Would you recommend this seller?</string>
+    <string name="RecommendTitleWorker">Would you recommend this Buyer?</string>
+    <string name="RadioButtonConditionInEditRev">Yes</string>
+    <string name="RadioButtonConditionInEditRev2">No</string>
+    <string name="revProductDes">Product Review</string>
+    <string name="revCusDes">Full Review</string>
+    <string name="PostedProductReviewDescrib">Amazing experience! communication and his great work overall was better than I thought.</string>
+    <string name="UpadatingBut">Update</string>
+    <string name="CancelBut">Cancel</string>
+    <string name="AddReviewSubmitBut">Submit</string>
+    <string name="AddReviewLatBut">Later</string>
+    <string name="ReviewExampleTitle">Example: Great communication</string>
+    <string name="ReviewExampleDes">Example: Amazing experience! communication and his great work overall was better than I thought.</string>
+    <string name="ReviewExampleDesWorker">Example: Amazing experience with this Buyer. Very friendly.</string>
+    <string name="signout">SignOut</string>
+
+    <string-array name="status">
+        <item> Pending </item>
+        <item> Accepted </item>
+        <item> Completed </item>
+
+    </string-array>
+
+    <string-array name="status1">
+        <item> Pending </item>
+        <item> Accepted </item>
+        <item> Completed </item>
+
+    </string-array>
+    <string name="title_activity_view_rev_cus">Leanback ViewRevCusActivity</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="messages">Messages</string>
+    <string name="message">Message</string>
+    <string name="completed_orders_worker">Completed Orders</string>
+    <string name="accepted_orders_worker">Accepted Orders</string>
+    <string name="search_orders_worker_accepted">Search Orders</string>
+    <string name="orders_customer">Orders</string>
+    <string name="completed_orders_customers">Completed Orders</string>
+    <string name="search_orders_completed_customer">Search Orders</string>
+    <string name="accepted_orders_customer">Accepted Orders</string>
+    <string name="cancel_customer_pending">Cancel</string>
+    <string name="view_order_worker_id">#Od23234</string>
+    <string name="view_cus_order_id">#Od23234</string>
+    <string name="edit_cus_order_btn">Edit</string>
+    <string name="done_view_order">Done</string>
+    <string name="name_cus">Name</string>
+    <string name="address_cus">Address</string>
+    <string name="phone_cus">Phone</string>
+    <string name="title_cus">Title</string>
+    <string name="date_cus">Date</string>
+    <string name="book_worker_btn_cus">Book Worker</string>
+</resources>
